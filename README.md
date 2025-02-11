@@ -6,7 +6,7 @@ I am a bioinformatics professional with a strong background in biotechnology, co
 🎓 Education & Background
 
 📍 M.S. in Bioinformatics | Northeastern University, Boston (Expected 2026)
-📍 M.Tech. in Biotechnology | D.Y. Patil University, Mumbai
+📍 M.Tech. in Biotechnology | D.Y. Patil University, Navi Mumbai
 📍 B.E. in Biotechnology | Manipal Institute of Technology, Manipal
 
 My coursework has included bioinformatics programming, computational genomics, and statistical modeling, helping me build expertise in multi-omics data analysis and visualization.
